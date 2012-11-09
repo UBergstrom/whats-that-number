@@ -1,0 +1,5 @@
+WhatsThatNumber takes the digits 0 through 9 as input, via the displayed buttons or the keyboard, and converts them into their verbalized, English equivalents; e.g., "1234567890" becomes "one billion, two hundred and thirty-four million, five hundred and sixty-seven thousand, and eight hundred and ninety."
+
+1) Install and compile files DigitHandler.java, WhatsThatNumber.java
+
+2) To invoke, use: lark.fun.numbers.WhatsThatNumber
